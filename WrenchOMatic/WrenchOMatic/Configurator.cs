@@ -5,7 +5,7 @@ namespace WrenchOMatic
 {
     public class Configurator
     {
-        private static readonly string configFilename = "./settings.json";
+        private static readonly string configFilename = "./settings.cfg";
 
         private static MelonPreferences_Category _configCat;
 

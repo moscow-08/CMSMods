@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WrenchOMatic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07dc3adb9574d3274543d4ddad503f1d91f88a09")]
 [assembly: System.Reflection.AssemblyProductAttribute("WrenchOMatic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WrenchOMatic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
