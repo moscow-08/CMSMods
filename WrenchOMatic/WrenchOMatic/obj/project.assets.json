@@ -1,11 +1,41 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Samboy063.Tomlet/6.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Tomlet.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Tomlet.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Samboy063.Tomlet/6.1.0": {
+      "sha512": "WCtdC9i8+QxrHGxOH0Jg3Aob/TQ5aq2QJVPXrRwFijzu0xkNlA2oYz/npSZalhOqrEnU60OXc3XOu/exX9Yanw==",
+      "type": "package",
+      "path": "samboy063.tomlet/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Tomlet.dll",
+        "lib/net6.0/Tomlet.dll",
+        "lib/net7.0/Tomlet.dll",
+        "lib/net8.0/Tomlet.dll",
+        "lib/net9.0/Tomlet.dll",
+        "lib/netstandard2.0/Tomlet.dll",
+        "samboy063.tomlet.6.1.0.nupkg.sha512",
+        "samboy063.tomlet.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Samboy063.Tomlet >= 6.1.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Tyler\\.nuget\\packages\\": {}
@@ -51,6 +81,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Samboy063.Tomlet": {
+            "target": "Package",
+            "version": "[6.1.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
