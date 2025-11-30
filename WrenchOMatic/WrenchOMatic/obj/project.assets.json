@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code Projects\\CMSMods\\WrenchOMatic\\WrenchOMatic\\WrenchOMatic.csproj",
+      "projectUniqueName": "F:\\Code Projects\\CMSMods\\WrenchOMatic\\WrenchOMatic\\WrenchOMatic.csproj",
       "projectName": "WrenchOMatic",
-      "projectPath": "E:\\Code Projects\\CMSMods\\WrenchOMatic\\WrenchOMatic\\WrenchOMatic.csproj",
+      "projectPath": "F:\\Code Projects\\CMSMods\\WrenchOMatic\\WrenchOMatic\\WrenchOMatic.csproj",
       "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "E:\\Code Projects\\CMSMods\\WrenchOMatic\\WrenchOMatic\\obj\\",
+      "outputPath": "F:\\Code Projects\\CMSMods\\WrenchOMatic\\WrenchOMatic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "F:\\AppData\\Roaming\\NuGet\\NuGet.Config",

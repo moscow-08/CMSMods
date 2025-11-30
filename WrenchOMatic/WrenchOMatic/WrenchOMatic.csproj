@@ -21,6 +21,7 @@
 
 	<ItemGroup>
 		<Compile Include="Configurator.cs" />
+		<Compile Include="PlayerSkills.cs" />
 		<Compile Include="Utils\ToolBox.cs" />
 		<Compile Include="Wrencher.cs" />
 		<Compile Include="Models\PlayerSettings.cs" />

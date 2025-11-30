@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WeDlg12I8XU=",
+  "dgSpecHash": "YCL98jhSQ1U=",
   "success": true,
-  "projectFilePath": "E:\\Code Projects\\CMSMods\\WrenchOMatic\\WrenchOMatic\\WrenchOMatic.csproj",
+  "projectFilePath": "F:\\Code Projects\\CMSMods\\WrenchOMatic\\WrenchOMatic\\WrenchOMatic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tyler\\.nuget\\packages\\samboy063.tomlet\\6.1.0\\samboy063.tomlet.6.1.0.nupkg.sha512",
     "C:\\Users\\Tyler\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",

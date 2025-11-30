@@ -14,6 +14,8 @@ namespace WrenchOMatic.Models
         public int InspectMultiplier;
         public int WalkingSpeedMultiplier;
         public int PartMovementMultiplier;
+        public int ExperienceGainedMultiplier;
+        public int MoneyGainedMultiplier;
 
         public PlayerSettings()
         {
@@ -23,6 +25,8 @@ namespace WrenchOMatic.Models
             InspectMultiplier = 1;
             WalkingSpeedMultiplier = 1;
             PartMovementMultiplier = 1;
+            ExperienceGainedMultiplier = 1;
+            MoneyGainedMultiplier = 1;
         }
     }
 }
